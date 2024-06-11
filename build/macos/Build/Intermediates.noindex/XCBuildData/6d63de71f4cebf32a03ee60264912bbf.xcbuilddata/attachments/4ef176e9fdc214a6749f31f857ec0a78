@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/printing-master.dia",
+    "emit-module-dependencies" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/printing-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/printing-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/printing-master.swiftdeps"
+  },
+  "/Users/pawanragavendhar/.pub-cache/hosted/pub.dev/printing-5.11.1/macos/Classes/PrintingPlugin.swift" : {
+    "const-values" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.swiftconstvalues",
+    "dependencies" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.d",
+    "diagnostics" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.o",
+    "llvm-bc" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.bc",
+    "object" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.o",
+    "swift-dependencies" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447.swiftdeps",
+    "swiftmodule" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintingPlugin-14c5c769e7934e014e2ed9e653247447~partial.swiftmodule"
+  },
+  "/Users/pawanragavendhar/.pub-cache/hosted/pub.dev/printing-5.11.1/macos/Classes/PrintJob.swift" : {
+    "const-values" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.swiftconstvalues",
+    "dependencies" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.d",
+    "diagnostics" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.o",
+    "llvm-bc" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.bc",
+    "object" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.o",
+    "swift-dependencies" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob.swiftdeps",
+    "swiftmodule" : "/Users/pawanragavendhar/flutter_projects/bill-app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/printing.build/Objects-normal/arm64/PrintJob~partial.swiftmodule"
+  }
+}
